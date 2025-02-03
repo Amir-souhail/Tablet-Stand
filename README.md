@@ -1,29 +1,28 @@
+# 🖥️ Attendance Tablet Stand
 
----
+## 📌 Project Overview
+This repository contains the 3D design files for a **3D-printed attendance tablet stand**. The stand is designed to securely hold a tablet used for attendance tracking.
 
-**Title: Tablet Stand Project**  
+## 📂 Repository Structure
+- `/models` - CAD files including STL, STEP, and SolidWorks part file.
+- `/images` - Photos of the 3D-printed stand.
+- `README.md` - Project description and instructions.
 
-## 📌 Project Overview  
-This repository contains the design files and images for a custom 3D-printed tablet stand. The stand features an engraved **EDGE LAB** logo and is designed to securely hold a tablet at an ergonomic viewing angle.  
-
-## 📂 Repository Structure  
-- `/images` - Contains reference images of the 3D-printed stand.  
-- `/models` - CAD and STL files for 3D printing.  
-- `README.md` - Project description and instructions.  
-
-## 🛠️ Materials & Printing Instructions  
+## 🛠️ 3D Printing Guidelines
 - **Material:** PLA / ABS / PETG  
-- **Print Settings:**  
-  - Layer Height: 0.2mm  
-  - Infill: 20%-30%  
-  - Supports: Not required  
+- **Layer Height:** 0.2mm  
+- **Infill:** 20%-30%  
+- **Supports:** Not required  
 
-## 📷 Preview  
-![Tablet Stand](stand.JPG)  
+## 📷 Preview
+![Tablet Stand](Stand%202.jpg)
 
-## 🚀 How to Use  
-1. Print the provided STL file using a 3D printer.  
-2. Assemble if necessary.  
-3. Use the stand to hold your tablet securely.  
+## 🚀 How to Use
+1. **Download** the STL file from `/models`.
+2. **Slice** using software like Cura or PrusaSlicer.
+3. **Print** using a 3D printer.
+4. **Use the stand** for attendance tablet placement.
 
----
+## 📜 License
+This project is open-source and available for personal and educational use. Feel free to modify and improve it!
+
