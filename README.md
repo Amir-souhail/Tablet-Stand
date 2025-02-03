@@ -19,7 +19,7 @@ This repository contains the design files and images for a custom 3D-printed tab
   - Supports: Not required  
 
 ## 📷 Preview  
-![Tablet Stand](images/stand.JPG)  
+![stand](images/stand.JPG)  
 
 ## 🚀 How to Use  
 1. Print the provided STL file using a 3D printer.  
